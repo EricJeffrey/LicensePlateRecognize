@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LicensePlateRecognize</string>
+    <string name="license_recognize_zh">车牌识别</string>
+    <string name="select_img_zh">选择图片</string>
+    <string name="click_to_select_image_zh">点击右上角按钮拍照或选择车牌图片</string>
+    <string name="recognizing">识别中…</string>
+    <string name="do_recognize">识别</string>
+    <string name="open_camera">打开相机</string>
+    <string name="sample_license">豫CVN282</string>
+    <string name="sample_type_str">小型新能源牌</string>
+</resources>
